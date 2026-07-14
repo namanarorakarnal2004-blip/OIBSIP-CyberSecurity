@@ -17,7 +17,7 @@ To research and explain common network security threats, their impact, real-worl
 - Conclusion
 
 ## Files Included
-- GouravThakur_Task4.pdf
+- Naman_Task4.pdf
 
 ## Outcome
 This report provides a detailed understanding of common network security threats and the security measures used to protect computer networks
