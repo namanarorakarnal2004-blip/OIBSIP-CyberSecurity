@@ -13,3 +13,6 @@ Perform a basic network scan using Nmap to identify active hosts and open ports.
 
 ## Outcome
 Successfully performed a basic network scan and identified open ports and running services using Nmap.
+
+Author :
+*Naman*
