@@ -21,26 +21,49 @@ Each task contains:
 - README
 - Supporting Files
 
-# Task 1 - Basic Network Scanning with Nmap
 
-## Objective
-To perform a basic network scan using Nmap and identify open ports and services on a local machine.
+# OIBSIP Cyber Security Internship
 
-## Tool Used
-- Nmap 7.99
+This repository contains all the tasks completed during the Oasis Infobyte Cyber Security Internship (OIBSIP).
 
-## Target
-10.95.239.148
+## Repository Structure
 
-## Open Ports Identified
-- 135/tcp - Microsoft RPC
-- 139/tcp - NetBIOS Session Service
-- 445/tcp - Microsoft-DS (SMB)
-- 3306/tcp - MySQL
+### Task 1 - Basic Network Scanning with Nmap
+- Network scan using Nmap
+- Scan results (.txt)
+- Screenshot
+- README
 
-## Files Included
-- nmap_scan_results.txt
-- Screenshot.png
+### Task 4 - Common Network Security Threats
+- Research Report (PDF)
+- README
 
-## Conclusion
-The scan successfully identified the active host, open ports, and running services on the target system.
+### Task 5 - Social Engineering Attacks
+- Research Report (PDF)
+- README
+
+### Task 6 - Importance of Patch Management
+- Research Report (PDF)
+- README
+
+## Tools Used
+- Nmap
+- GitHub
+- Microsoft Word
+- Windows 11
+
+## Skills Learned
+- Network Scanning
+- Cyber Security Fundamentals
+- Social Engineering Awareness
+- Patch Management
+- GitHub Repository Management
+- Technical Documentation
+
+## Author
+*Naman*
+
+## Internship
+Oasis Infobyte – Cyber Security Internship (OIBSIP)
+
+
